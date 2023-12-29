@@ -8,4 +8,4 @@ https://github.com/kwrightsk/finals-countdown/assets/154839956/2795c1db-19a5-42e
 Locate the file `index.html` and open it with your system's web browser (e.g. Google Chrome).
 
 ## Additional Information
-This game was created as a project for the CMPT 281: Website Design and Development course at the University of Saskatchewan.
+This web application was created as a project for the CMPT 281: Website Design and Development course at the University of Saskatchewan.
